@@ -11,5 +11,5 @@ include: "/app-marketing-common/*.view"
 
 # TODO: Add each relevant module
 include: "adwords_config.view"
-# include: "facebook_ads_config.view"
+include: "facebook_ads_config.view"
 include: "cross_channel_ad_impressions.view"
